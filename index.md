@@ -9,7 +9,7 @@ Compress audio and video easily, right from your Mac.
 
 ## 📦 Download
 
-[**⬇️ Download the App**](https://yourdomain.com/yourfile.dmghttps://github.com/leotimechannelorg/Compressr-Easy-Media-Compressor-For-Mac/releases/download/Compressr-versions/Compressr.dmg){: .btn}
+[**⬇️ Download the App**](https://github.com/leotimechannelorg/Compressr-Easy-Media-Compressor-For-Mac/releases/download/Compressr-versions/Compressr.dmg){: .btn}
 
 > Replace the link above with your actual `.dmg` file URL (hosted on GitHub or elsewhere)
 
