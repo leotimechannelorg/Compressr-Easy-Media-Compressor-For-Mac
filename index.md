@@ -1,5 +1,10 @@
 ---
 layout: default
+permalink: /
+---
+
+---
+layout: default
 ---
 
 # Test page
