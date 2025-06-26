@@ -1,3 +1,8 @@
+---
+layout: default
+title: MacOS Compressor App
+---
+
 # 🎧 MacOS Compressor App
 
 Compress audio and video easily, right from your Mac.
