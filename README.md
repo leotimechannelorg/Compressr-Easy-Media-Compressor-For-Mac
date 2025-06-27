@@ -17,6 +17,6 @@ MacOS will likely refuse to open the app due to security reasons. If it does so,
 After opening Compressr, you will be asked to select which files you would like to compress (supported file types are .mp3, .m4a, .wav, .mov, or .mp4), which bitrate you would like to compress too (we recommend 128kbps for saving space but not reducing quality a lot), and the destination folder. Then, click compress to compress the files (this can take some time depending on how many files you are compressing).
 
 ## Any other issues?
-If you experience any other issues that aren't mentioned here, feel free to contact us at leotimechannel@gmail.com or use the submission form on our [main website](leotimechannel.wixsite.com/menu).
+If you experience any other issues that aren't mentioned here, feel free to contact us at leotimechannel@gmail.com or use the submission form on our [main website](https://leotimechannel.wixsite.com/menu).
 
 ### [Become a member on my website](leotimechannel.wixsite.com/menu/member-page) for real-time updates and special perks!
