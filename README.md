@@ -19,4 +19,4 @@ After opening Compressr, you will be asked to select which files you would like 
 ## Any other issues?
 If you experience any other issues that aren't mentioned here, feel free to contact us at leotimechannel@gmail.com or use the submission form on our [main website](leotimechannel.wixsite.com/menu).
 
-### [Become a member on my website](leotimechannel.wixsite.menu/member-page) for real-time updates and special perks!
+### [Become a member on my website](leotimechannel.wixsite.com/menu/member-page) for real-time updates and special perks!
